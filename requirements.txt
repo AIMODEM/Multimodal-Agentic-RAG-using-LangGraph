@@ -1,0 +1,10 @@
+yt-dlp
+langchain-aws
+langchain-experimental
+chromadb
+pymupdf
+pillow
+boto3
+langgraph
+moviepy
+pillow
