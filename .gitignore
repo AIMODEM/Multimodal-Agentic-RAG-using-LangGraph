@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# others
+Multimodal-Agentic-RAG-using-LangGraph\multimodal_rag\data\raw_audio
